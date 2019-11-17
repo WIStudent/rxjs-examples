@@ -1,0 +1,15 @@
+{
+  "name": "rxjs-examples",
+  "version": "1.0.0",
+  "description": "rxjs examples",
+  "author": "Tobias Trumm",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.8",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
+}
